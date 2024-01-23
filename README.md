@@ -21,6 +21,12 @@ Este projeto consiste na criação de uma cópia do site do Spotify, com ênfase
 2. Instale as dependências usando `npm install`.
 3. Execute o projeto com `npm start` e abra no seu navegador.
 
+
+## Autores
+
+- [@GuilhermeLD](https://github.com/GuilhermeLD)
+
+ 
 ## Estrutura do Projeto
 ```plaintext
 .
@@ -35,8 +41,4 @@ Este projeto consiste na criação de uma cópia do site do Spotify, com ênfase
 |-- README.md
 
 
-
-## Autores
-
-- [@GuilhermeLD](https://github.com/GuilhermeLD)
 
