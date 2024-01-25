@@ -13,13 +13,13 @@ body {
 }
 
 .sidebar__navigation {
-  background-color:  #121212;
+  background-color: var(--bg-color-black);
   border-radius: 8px;
   padding: 16px 0 0 16px;
 }
 
 .sidebar__navigation .logo {
-  background-color: #121212;
+  background-color: var(--bg-color-black);
   display: flex;
   border-radius: 8px;
   padding: 16px 0 0 16px;
@@ -47,7 +47,7 @@ body {
 }
 
 .libary {
-  background-color: #121212;
+  background-color: var(--bg-color-black);
   border-radius: 8px;
   display: flex;
   justify-content: space-between;
